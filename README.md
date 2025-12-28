@@ -1,19 +1,56 @@
-<b>About Me </b>
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
+<h1 align="center">Hi 👋, I'm Saurav Anand !</h1>
+<h3 align="center">A Passionate Full Stack Developer from India
+    </h3>
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
-<br> I’m currently working on OneLeet<br> I’m currently learning AI Apis Integration<br>I’m looking to collaborate on Backend Projects<br>I’m looking for help with Typescript<br>Reach me at sauravanand1608@gmail.com<br>Fun fact I Play Guitar and Like Singing
 
 
+* 🎓  I'm currently pursuing a B.Tech in CSE
+* ✉️  You can contact me at [sauravanand1608@gmail.com](mailto:sauravanand1608@gmail.com)
+* ✨️ My best work till now  [Nexfolio](https://nexfolio-ashen.vercel.app/)
+* 🚀 Interested in Future Tech And Agentic AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-anand-257037251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sauravanand1608@gmail.com) 
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=isauravanand&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isauravanand&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Skills
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" alt="CSS" />
+  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45"  />
+   <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48"  />
+<img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48"  />
 
----
-[![](https://visitcount.itsvg.in/api?id=isauravanand&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+<img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  />
+<img
+src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p> 
+  
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/saurav-anand-257037251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/isauravanand/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saurav Anand" height="26" width="35" /></a>
+</p>
+
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+
