@@ -9,12 +9,10 @@
 <a href="https://nexfolio-ashen.vercel.app/">
   <img align="left" alt="Nexfolio Project" width="100px" src="https://img.shields.io/badge/Nexfolio-181717?style=for-the-badge&logo=Vercel&logoColor=white" />
 </a>
-<!-- <br><br>
+<br><br>
 <br><br>
 
-![](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896) -->
-
-## <p align="center"><h4 align="center"><samp> A AI-Full Stack Web Developer, AI/ML 🤖 & Hardware  </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An AI-Full Stack Web Developer, AI/ML 🤖 & Hardware Hacker </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
@@ -42,32 +40,28 @@
 </div>
 
 ##
-<h3><b><samp>Skills</samp></b></h3>
 
-<h4><b><samp>Languages</samp></b></h4>
-
-![](https://skillicons.dev/icons?i=js,ts,python,html,css&perline=18)
-
-<h4><b><samp>Frontend</samp></b></h4>
-
-![](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&perline=18)
-
-<h4><b><samp>Backend & Database</samp></b></h4>
-
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=18)
-
-<h4><b><samp>AI, Machine Learning & Hardware</samp></b></h4>
-
-![](https://skillicons.dev/icons?i=raspberrypi,arduino,python&perline=18)
-
-<h4><b><samp>Tools & Version Control</samp></b></h4>
-
-![](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=18)
-
-##
-
-<h3><b><samp>Competitive Programming</samp></b></h3>
-
-<a href="https://leetcode.com/u/isauravanand/">
-  <img align="center" src="https://leetcard.jacoblin.cool/isauravanand?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
-</a>
+<table width="100%">
+  <tr valign="top">
+    <td width="550">
+      <h3><b><samp>Skills</samp></b></h3>
+      <h4><b><samp>Languages</samp></b></h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,html,css">
+      <h4><b><samp>Frontend</samp></b></h4>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite">
+      <h4><b><samp>Backend & Database</samp></b></h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb">
+      <h4><b><samp>AI, ML & Hardware</samp></b></h4>
+      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,python">
+      <h4><b><samp>Tools</samp></b></h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
+    </td>
+    <td width="450" align="center">
+      <h3><b><samp>Competitive Programming</samp></b></h3>
+      <br>
+      <a href="https://leetcode.com/u/isauravanand/">
+        <img align="center" src="https://leetcard.jacoblin.cool/isauravanand?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
