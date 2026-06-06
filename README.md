@@ -69,5 +69,5 @@
 <h3><b><samp>Competitive Programming</samp></b></h3>
 
 <a href="https://leetcode.com/u/isauravanand/">
-  <img align="center" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  <img align="center" src="https://leetcard.jacoblin.cool/isauravanand?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
 </a>
