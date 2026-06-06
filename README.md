@@ -1,57 +1,73 @@
-[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
-]()
-<h1 align="center">Hi 👋, I'm Saurav Anand !</h1>
-<h3 align="center">A Passionate Full Stack Developer from India
-    </h3>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-
-
-
-* 🎓  I'm currently pursuing a B.Tech in CSE
-* ✉️  You can contact me at [sauravanand1608@gmail.com](mailto:sauravanand1608@gmail.com)
-* ✨️ My best work till now  [Nexfolio](https://nexfolio-ashen.vercel.app/)
-* 🚀 Interested in Future Tech And Agentic AI
-
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-### 🛠️ Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="45" height="45" alt="CSS3" />
-  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45" alt="Bootstrap" />
-  <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="45" height="45" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="45" height="45" alt="Vite" />
-  <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="45" height="45" alt="JavaScript" />
-  <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="45" height="45" alt="Express.js" />
-  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="45" height="45" alt="Node.js" />
-  <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="45" height="45" alt="React" />
-  <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="45" height="45" alt="MongoDB" />
-  <img src="https://img.icons8.com/?size=96&id=20906&format=png" width="45" height="45" alt="Git" />
-  <img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="45" height="45" alt="TypeScript" />
-</p>
-</p> 
-  
-<div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saurav-anand-257037251/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="26" width="35" />
+# Hey Everyone! I am Saurav Anand!
+<br><br>
+<a href="https://www.linkedin.com/in/saurav-anand-257037251/">
+  <img align="left" alt="Saurav's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+<a href="mailto:sauravanand1608@gmail.com">
+  <img align="left" alt="Saurav's Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://nexfolio-ashen.vercel.app/">
+  <img align="left" alt="Nexfolio Project" width="100px" src="https://img.shields.io/badge/Nexfolio-181717?style=for-the-badge&logo=Vercel&logoColor=white" />
+</a>
+<!-- <br><br>
+<br><br>
 
+![](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896) -->
 
-</p>
+## <p align="center"><h4 align="center"><samp> A AI-Full Stack Web Developer, AI/ML 🤖 & Hardware  </samp></h4></p>
 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+
+- 👨‍🎓 <samp><b>B.Tech in Computer Science & Engineering</b></samp>
+- 🥇 <samp>Active participant in New Delhi Hackathons </samp>
+- 💼 <samp>I am looking for <b>Full-Time/Internship</b> Opportunities in AI & Full Stack</samp>
+- 💬 <samp>Ask me about Full Stack Dev, Computer Vision, & IoT/Electronics</samp>
+- ⚡ <samp>Fun fact: I am passionate about modern UI design, animations, and cinematic AI image generation!</samp>
 </div>
 
+##
 
+<div>
+<h3><b><samp>Projects & Experience:</samp></b></h3>
+
+- 💻 <b>Creator of Nexfolio</b>: Engineered and deployed a production-ready, AI-driven resume builder. Leveraged modern frontend ecosystems (React, Tailwind) and LLM APIs to automate and elevate professional portfolio generation.<br><br>
+
+- 👁️ <b>Lead Developer, EYESONIC AI</b>: Built a wearable AIoT object detection system for the visually impaired. Seamlessly integrated Raspberry Pi hardware with Python-based computer vision models (YOLO) to provide real-time spatial awareness and audio feedback.<br><br>
+
+- 🚶 <b>Architect, SafePath AI</b>: Currently developing a predictive navigation engine that prioritizes pedestrian safety. Combining dynamic routing algorithms with an interactive, animation-rich UI to help users navigate urban environments securely.<br><br>
+
+- 🏆 <b>Competitive Hacker & Innovator</b>: Active participant in elite offline hackathons across New Delhi (including Hack&Chill 3.0). Specialized in rapid prototyping, hardware-software integration, and delivering scalable solutions under tight 24-48 hour deadlines.<br>
+</div>
+
+##
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=js,ts,python,html,css&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&perline=18)
+
+<h4><b><samp>Backend & Database</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=18)
+
+<h4><b><samp>AI, Machine Learning & Hardware</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=raspberrypi,arduino,python&perline=18)
+
+<h4><b><samp>Tools & Version Control</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=18)
+
+##
+
+<h3><b><samp>Competitive Programming</samp></b></h3>
+
+<a href="https://leetcode.com/u/isauravanand/">
+  <img align="center" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+</a>
