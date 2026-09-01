@@ -12,7 +12,7 @@
 <br><br>
 <br><br>
 
-## <p align="center"><h4 align="center"><samp> An AI-Full Stack Web Developer, AI/ML 🤖 & Hardware Hacker </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An AI-Full Stack Web Developer, AI/ML , Agentic AI , Gen AI  </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
